@@ -1,7 +1,7 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 import {BORDERRADIUS, SPACING} from '../theme/theme';
-import CustomIcon from './CustomIcon';
+//import CustomIcon from './CustomIcon';
 
 interface BGIconProps {
   name: string;
